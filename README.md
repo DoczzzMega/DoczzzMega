@@ -1,80 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF8E7&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=Roman%20Gunko&fontSize=44&fontColor=6D4C41&desc=DoczzzMega%20%E2%80%94%20Full%20Stack%20Developer&descSize=16&descAlignY=80&fontAlignY=50" width="100%"/>
 
-# ROMAN GUNKO
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&weight=600&size=18&duration=3200&pause=1400&color=6D4C41&center=true&vCenter=true&repeat=true&width=500&height=38&lines=Laravel+%2B+React+%2B+Vue;AI-powered+web+development;Secure+code+through+attacker's+perspective)](https://git.io/typing-svg)
 
-**Full Stack Web Developer**
-
-`DoczzzMega`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=16&duration=3500&pause=1500&color=B8860B&center=true&vCenter=true&repeat=true&width=480&height=35&lines=Crafting+web+applications+from+ground+up;AI+integration+•+Security+architecture;Self-taught+•+Free+resources+•+3%2B+years)](https://git.io/typing-svg)
-
----
-
-<a href="https://t.me/rommega"><img src="https://img.shields.io/badge/✉️_Telegram-@rommega-FFF8E7?style=flat-square&logoColor=B8860B" /></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=DoczzzMega&style=flat-square&color=B8860B&label=visitors" />
+<a href="https://t.me/rommega"><img src="https://img.shields.io/badge/Telegram-@rommega-F5F0EB?style=for-the-badge&logo=telegram&logoColor=6D4C41" /></a>
+<img src="https://komarev.com/ghpvc/?username=DoczzzMega&style=for-the-badge&color=6D4C41&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-### Profile
+### About
 
-Self-taught full stack developer with over three years of experience acquired entirely through free online resources. I design, build, and deploy web applications across the full technology stack. My practical understanding of web vulnerability exploitation informs a security-first development approach. Currently working on projects integrating AI into web platforms.
+Full stack web developer, self-taught over 3+ years using only free educational materials. I work across the entire web development pipeline: building responsive frontends with React and Vue, server-side logic with Laravel, managing MySQL/Redis data layers, and deploying via Docker on Ubuntu. I have practical knowledge of how web application vulnerabilities are exploited, which I apply directly to building secure systems. Currently working on AI-integrated web applications.
 
 ---
 
 ### Technologies
 
-<div align="center">
+<table>
+<tr><td>
 
-| Frontend | Backend | Infrastructure |
-|:--------:|:-------:|:--------------:|
-| HTML5 · CSS3 · SCSS | PHP · Laravel | Docker |
-| JavaScript | MySQL · Redis | Ubuntu · Linux |
-| React · Vue.js | WordPress | — |
-| Tailwind · Bootstrap | Moonshine · Filament | — |
+**Frontend**
+<br><br>
+![HTML5](https://img.shields.io/badge/HTML5-F5F0EB?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-F5F0EB?style=flat-square&logo=css3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/SCSS-F5F0EB?style=flat-square&logo=sass)
+![JS](https://img.shields.io/badge/JavaScript-F5F0EB?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-F5F0EB?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/Vue-F5F0EB?style=flat-square&logo=vuedotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-F5F0EB?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-F5F0EB?style=flat-square&logo=bootstrap)
 
-</div>
+</td><td>
 
-**Additionally exploring:** Python · Go · Flutter
+**Backend & Infra**
+<br><br>
+![PHP](https://img.shields.io/badge/PHP-F5F0EB?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-F5F0EB?style=flat-square&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-F5F0EB?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-F5F0EB?style=flat-square&logo=redis)
+![WordPress](https://img.shields.io/badge/WordPress-F5F0EB?style=flat-square&logo=wordpress&logoColor=21759B)
+![Docker](https://img.shields.io/badge/Docker-F5F0EB?style=flat-square&logo=docker)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-F5F0EB?style=flat-square&logo=ubuntu)
+
+</td></tr>
+</table>
+
+**Admin Panels:** Moonshine · Filament &nbsp;&nbsp;|&nbsp;&nbsp; **Other:** Python · Go · Flutter
 
 ---
 
-### Expertise
+### Experience Map
 
-**Web Development** — CRUD applications, RESTful APIs, authentication systems (Auth, Sanctum), admin dashboards with Moonshine and Filament.
-
-**Real-time Architecture** — WebSockets, queues, workers, streamed chunked API responses from external services.
-
-**CMS & Deployment** — WordPress custom plugin development, production server deployment on Ubuntu.
-
-**Mobile** — Android application developed with Flutter.
-
-**AI Integration** — Embedding AI-driven features into production web applications.
-
-**Web Security** — Knowledge of web application vulnerability exploitation techniques, applied to building robust defensive architecture from the ground up.
-
-**Networking** — OSI model fundamentals, network scanning, packet analysis, protocol-level traffic inspection.
+| Domain | Scope |
+|:-------|:------|
+| Web Applications | CRUD, REST APIs, Auth (Sanctum), admin dashboards |
+| Real-time Systems | WebSockets, queues, workers, chunked stream responses |
+| CMS | WordPress plugin development, production deployment |
+| Mobile | Android app built with Flutter |
+| AI Integration | AI-driven features in production web apps |
+| Web Security | Exploitation knowledge applied to defensive architecture |
+| Networking | OSI model, network scanning, packet & protocol analysis |
 
 ---
 
-### Activity
+### GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DoczzzMega&show_icons=true&hide_border=true&bg_color=FFF8E7&title_color=B8860B&icon_color=B8860B&text_color=5a4a20" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DoczzzMega&hide_border=true&background=FFF8E7&ring=B8860B&fire=D4A017&currStreakLabel=B8860B&stroke=E8DCC0&sideLabels=B8860B&sideNums=5a4a20&currStreakNum=5a4a20&dates=9a8a50" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DoczzzMega&show_icons=true&hide_border=true&bg_color=F5F0EB&title_color=6D4C41&icon_color=6D4C41&text_color=4a3a2a" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DoczzzMega&hide_border=true&background=F5F0EB&ring=6D4C41&fire=BF360C&currStreakLabel=6D4C41&stroke=E0D5CA&sideLabels=6D4C41&sideNums=4a3a2a&currStreakNum=4a3a2a&dates=8a7a6a" />
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoczzzMega&layout=compact&hide_border=true&bg_color=FFF8E7&title_color=B8860B&text_color=5a4a20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoczzzMega&layout=compact&hide_border=true&bg_color=F5F0EB&title_color=6D4C41&text_color=4a3a2a)
 
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoczzzMega&hide_border=true&bg_color=FFF8E7&color=B8860B&line=B8860B&point=D4A017&area_color=F5EBC8&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoczzzMega&hide_border=true&bg_color=F5F0EB&color=6D4C41&line=6D4C41&point=BF360C&area_color=E8DDD0&area=true)
 
 </div>
 
@@ -82,6 +87,6 @@ Self-taught full stack developer with over three years of experience acquired en
 
 <div align="center">
 
-*Driven by curiosity. Built on open knowledge.*
+*Built from scratch. Powered by free knowledge.*
 
 </div>
