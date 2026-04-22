@@ -1,47 +1,46 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Roman%20Gunko&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DoczzzMega&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Roman%20Gunko&fontSize=44&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18&fontColor=1a1a2e&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DoczzzMega&style=for-the-badge&color=blueviolet&label=VISITORS" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1200&color=2E86AB&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Full+Stack+Developer+%7C+PHP+%2F+JS;AI+Integration+in+Web+Apps;Web+Security+%26+Defense+Architecture)](https://git.io/typing-svg)
 
+<br>
+
+<a href="https://t.me/rommega"><img src="https://img.shields.io/badge/Telegram-@rommega-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-@rommega-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rommega)
-&nbsp;
-[![HTB](https://img.shields.io/badge/Hack_The_Box-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/)
+<img src="https://komarev.com/ghpvc/?username=DoczzzMega&style=for-the-badge&color=2E86AB&label=PROFILE+VIEWS" />
 
 </div>
 
 <br>
 
-> **Self-taught full stack developer** with 3–4 years of experience.  
-> No paid courses — built entirely on free resources, documentation, and practice.  
-> Currently focused on **AI integration** in web applications.
+## About
+
+Self-taught full stack developer with 3+ years of hands-on experience — built entirely through free resources, official documentation, and consistent practice. I design and develop web applications from UI to database, deploy them to production, and ensure they're protected against known vulnerability vectors. Currently focused on integrating AI capabilities into modern web projects.
 
 <br>
 
-## 🛠 Stack
+## Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### Frontend
-<br>
+**🎨 Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### Backend
-<br>
+**⚙️ Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -55,41 +54,41 @@
 </tr>
 </table>
 
-**Admin Panels:** Moonshine · Filament &nbsp; | &nbsp; **Also:** Python · Go · Flutter
+**Admin Panels:** Moonshine · Filament &nbsp;|&nbsp; **Exploring:** Python · Go · Flutter
 
 <br>
 
-## ⚡ What I Build
+## Experience
 
-| Area | Details |
-|------|---------|
-| **Web Apps** | CRUD systems, REST APIs, auth (Sanctum), admin dashboards |
-| **Real-time** | WebSockets, queues, workers, streamed API responses |
-| **CMS** | WordPress custom plugin development |
-| **Mobile** | Android application (Flutter) |
-| **AI** | Integrating AI capabilities into web applications |
-| **Security** | Vulnerability research, HackTheBox, defensive architecture |
-| **Networking** | OSI model, packet analysis, protocol inspection |
+| Domain | What I Do |
+|--------|-----------|
+| **Web Applications** | CRUD systems, REST APIs, authentication (Sanctum), admin dashboards |
+| **Real-time Features** | WebSockets, queues, workers, streamed chunked API responses |
+| **CMS Development** | WordPress custom plugin development & server deployment |
+| **Mobile** | Android application built with Flutter |
+| **AI Integration** | Embedding AI features into production web applications |
+| **Web Security** | Knowledge of web vulnerability exploitation techniques, enabling robust defensive architecture |
+| **Networking** | OSI model, packet analysis, protocol-level traffic inspection |
 
 <br>
 
-## 📈 Stats
+## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DoczzzMega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DoczzzMega&theme=tokyonight&hide_border=true&background=1A1B27" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DoczzzMega&show_icons=true&theme=default&hide_border=true&title_color=2E86AB&icon_color=2E86AB&text_color=333333&bg_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DoczzzMega&theme=default&hide_border=true&ring=2E86AB&fire=E34F26&currStreakLabel=2E86AB&background=FFFFFF&stroke=E8E8E8" />
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoczzzMega&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoczzzMega&layout=compact&theme=default&hide_border=true&title_color=2E86AB&text_color=333333&bg_color=ffffff)
 
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoczzzMega&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoczzzMega&theme=minimal&hide_border=true&bg_color=ffffff&color=2E86AB&line=2E86AB&point=E34F26)
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer" width="100%"/>
