@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=20&duration=3000&pause=1200&color=00796B&center=true&vCenter=true&repeat=true&width=520&height=42&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Deploy+%E2%86%92+Defend;Self-taught+•+AI+Integration;3%2B+years+of+building+real+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=20&duration=3000&pause=1200&color=00796B&center=true&vCenter=true&repeat=true&width=520&height=42&lines=Frontend+-%3E+Backend+-%3E+Deploy+-%3E+Defend;Self-taught+%7C+AI+Integration;3%2B+years+of+building+real+projects)](https://git.io/typing-svg)
 
 <a href="https://t.me/rommega"><img src="https://img.shields.io/badge/Telegram-@rommega-E0F2F1?style=for-the-badge&logo=telegram&logoColor=00796B" /></a>
 &nbsp;
@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoczzzMega&layout=donut-vertical&hide_border=true&bg_color=E0F2F1&title_color=00796B&text_color=2a4a45" />
+<img align="right" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DoczzzMega&layout=donut-vertical&hide_border=true&bg_color=E0F2F1&title_color=00796B&text_color=2a4a45" />
 
 ### 🧑‍💻 Who I Am
 
@@ -79,7 +79,7 @@ I create web applications from UI design to server deployment. I know how web vu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DoczzzMega&show_icons=true&hide_border=true&bg_color=E0F2F1&title_color=00796B&icon_color=00796B&text_color=2a4a45" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DoczzzMega&show_icons=true&hide_border=true&bg_color=E0F2F1&title_color=00796B&icon_color=00796B&text_color=2a4a45" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DoczzzMega&hide_border=true&background=E0F2F1&ring=00796B&fire=FF6D00&currStreakLabel=00796B&stroke=B2DFDB&sideLabels=00796B&sideNums=2a4a45&currStreakNum=2a4a45&dates=5a8a80" />
 
 <br><br>
