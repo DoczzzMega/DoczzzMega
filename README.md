@@ -80,7 +80,7 @@ I create web applications from UI design to server deployment. I know how web vu
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DoczzzMega&show_icons=true&hide_border=true&bg_color=E0F2F1&title_color=00796B&icon_color=00796B&text_color=2a4a45" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DoczzzMega&hide_border=true&background=E0F2F1&ring=00796B&fire=FF6D00&currStreakLabel=00796B&stroke=B2DFDB&sideLabels=00796B&sideNums=2a4a45&currStreakNum=2a4a45&dates=5a8a80" />
+<img width="49%" src="https://streak-stats.demolab.com?user=DoczzzMega&hide_border=true&background=E0F2F1&ring=00796B&fire=FF6D00&currStreakLabel=00796B&stroke=B2DFDB&sideLabels=00796B&sideNums=2a4a45&currStreakNum=2a4a45&dates=5a8a80" />
 
 <br><br>
 
